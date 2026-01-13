@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SmartRank: Rule-Based Resume Shortlisting",
+  "description": "An automated candidate screening system that ranks resumes based on deterministic scoring rules, mandatory skill matching, and experience-based weightage.",
+  "requestFramePermissions": []
+}
